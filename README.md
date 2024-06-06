@@ -1,6 +1,23 @@
-#npm i
-#cd Frontend ->npm run dev
-#cd Backend ->npm start
+## Installation and Setup
+
+Follow these steps to install and run the project:
+1. **Install Dependencies:**
+
+    ```bash
+    npm install
+    ```
+2. **Start the Frontend:**
+
+    ```bash
+    cd Frontend
+    npm run dev
+    ```
+3. **Start the Backend:**
+
+    ```bash
+    cd Backend
+    npm start
+    ```
 
 <img width="1440" alt="Screenshot 2024-06-02 at 12 03 22 PM" src="https://github.com/jeevanleo/manga/assets/116184803/feafde71-a0a1-420b-b3bf-9f90d03a9723">
 <img width="1440" alt="Screenshot 2024-06-02 at 12 04 04 PM" src="https://github.com/jeevanleo/manga/assets/116184803/f0f78843-501a-42dc-8996-d4efad747dd4">
